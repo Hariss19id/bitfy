@@ -1,7 +1,0 @@
-{
-  "versionName": "2.6.7",
-  "versionCode": 22,
-  "changelog": "### Pembaruan Baru (v2.6.7)\n- **Rilis Pengujian**: Versi ini dirilis untuk menguji perbaikan sistem updater pada versi 2.6.6 (termasuk penanganan progress download 0% dan navigasi screen).\n",
-  "is_mandatory": false,
-  "isMandatory": false
-}

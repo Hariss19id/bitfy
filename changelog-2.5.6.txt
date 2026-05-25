@@ -1,4 +1,0 @@
-### Pembaruan Baru (v2.5.6)
-- **Sinkronisasi Dua Arah**: Sinkronisasi riwayat pencarian, playlist, dan pengaturan ke Supabase.
-- **Sistem Updater Baru**: Integrasi pembaruan mandiri melalui bitfy.my.id & Cloudflare R2.
-- **Perbaikan Kunci Primer**: Mengatasi konflik penyimpanan histori Room.

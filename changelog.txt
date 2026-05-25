@@ -1,4 +1,0 @@
-### Pembaruan Baru (v2.6.9)
-- **Listen Together - Room Chat**: Tampilan chat dalam room sekarang berfungsi dengan benar, termasuk bubble pesan, label username, dan indikator host.
-- **Listen Together - Settings**: Perbaikan tampilan halaman pengaturan Listen Together (copy room code, approve/reject join request, kick member, dan kirim pesan chat).
-- **Perbaikan Stabilitas**: Memperbaiki berbagai error kompilasi pada fitur Listen Together yang baru.

@@ -1,4 +1,0 @@
-### Pembaruan Baru (v2.5.7)
-- **Domain Kustom Baru**: Integrasi domain kustom `download.bitfy.my.id` untuk pembaruan sistem dan unduhan APK yang lebih profesional.
-- **Updater & Changelog Lancar**: Perbaikan error parsing HTML (`<!DOCTYPE`) pada updater aplikasi agar proses cek update berjalan mulus.
-- **Struktur R2 Rapi**: Penyederhanaan nama berkas APK menjadi lebih ringkas langsung di Cloudflare R2.

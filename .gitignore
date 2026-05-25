@@ -3,3 +3,8 @@
 
 # Abaikan token keamanan lokal GitHub
 github-token.txt
+
+# Abaikan berkas changelog lokal dan berkas metadata
+changelog*
+metadata*
+releases-current.json

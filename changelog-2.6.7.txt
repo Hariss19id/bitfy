@@ -1,2 +1,0 @@
-### Pembaruan Baru (v2.6.7)
-- **Rilis Pengujian**: Versi ini dirilis untuk menguji perbaikan sistem updater pada versi 2.6.6 (termasuk penanganan progress download 0% dan navigasi screen).

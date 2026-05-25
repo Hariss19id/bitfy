@@ -1,7 +1,0 @@
-{
-  "versionName": "2.6.1",
-  "versionCode": 16,
-  "changelog": "### Pembaruan Baru (v2.6.1)\n- **Unduhan Lanjutan (Pause & Resume)**: Mendukung fitur penangguhan (pause) dan melanjutkan (resume) unduhan APK secara langsung di dalam aplikasi (Ktor HTTP Range requests).\n- **Auto-Reconnect Pintar**: Otomatis menyambungkan kembali unduhan tanpa mengulang dari awal jika pengguna kehilangan koneksi internet (dengan exponential backoff retry).\n- **Dashboard Admin Uploader Terintegrasi**: Ditambahkan toggle modern \"Wajibkan Pembaruan (Force Update)\" di portal web admin R2 untuk memudahkan kontrol wajib rilis.\n- **Sistem Lock Layar Penuh**: Aplikasi akan terkunci secara penuh apabila rilis ditandai sebagai wajib update, memaksa pengguna melakukan pembaruan demi stabilitas sistem.\n",
-  "is_mandatory": false,
-  "isMandatory": false
-}

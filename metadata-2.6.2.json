@@ -1,7 +1,0 @@
-{
-  "versionName": "2.6.2",
-  "versionCode": 17,
-  "changelog": "### Pembaruan Baru (v2.6.2)\n- **Perbaikan Bug**: Mengatasi beberapa masalah kecil pada sistem audio dan meningkatkan kestabilan pemutaran latar belakang.\n- **Peningkatan Performa**: Optimalisasi pemuatan gambar album dan efisiensi memori.\n",
-  "is_mandatory": false,
-  "isMandatory": false
-}

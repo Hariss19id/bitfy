@@ -1,5 +1,0 @@
-{
-  "versionName": "2.5.8",
-  "versionCode": 12,
-  "changelog": "### Pembaruan Baru (v2.5.8)\n- **Perbaikan Deteksi Rilis**: Memperbaiki logika deteksi versi updater agar tidak salah menyarankan pembaruan saat pengguna sudah berada di versi terbaru.\n- **Pembersihan Logika UI**: Optimalisasi pengecekan string versi internal vs eksternal.\n"
-}

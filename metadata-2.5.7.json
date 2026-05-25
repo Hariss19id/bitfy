@@ -1,5 +1,0 @@
-{
-  "versionName": "2.5.7",
-  "versionCode": 11,
-  "changelog": "### Pembaruan Baru (v2.5.7)\n- **Domain Kustom Baru**: Integrasi domain kustom `download.bitfy.my.id` untuk pembaruan sistem dan unduhan APK yang lebih profesional.\n- **Updater & Changelog Lancar**: Perbaikan error parsing HTML (`<!DOCTYPE`) pada updater aplikasi agar proses cek update berjalan mulus.\n- **Struktur R2 Rapi**: Penyederhanaan nama berkas APK menjadi lebih ringkas langsung.\n"
-}

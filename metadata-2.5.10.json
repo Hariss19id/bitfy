@@ -1,5 +1,0 @@
-{
-  "versionName": "2.5.10",
-  "versionCode": 14,
-  "changelog": "### Pembaruan Baru (v2.5.10)\n- **Perbaikan Fitur Kenali Musik**: Memperbaiki error resampling audio (\"AudioProcessor must implement at least one #flush() overload\") dengan memigrasikan panggilan `flush()` ke signature modern Media3 1.10.x yang mendukung `StreamMetadata.DEFAULT`.\n"
-}

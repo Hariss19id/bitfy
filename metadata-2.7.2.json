@@ -1,7 +1,0 @@
-{
-  "versionName": "2.7.2",
-  "versionCode": 27,
-  "changelog": "### Pembaruan Baru (v2.7.2)\n- **Perbaikan Chat Ganda (Listen Together)**: Pesan chat tidak lagi muncul dua kali setelah dikirim.\n- **Perbaikan Transfer Host**: Host yang melepas kendali kini benar-benar keluar dari mode host tanpa perlu disconnect.\n- **Perbaikan Listener Zombie**: Listener player tidak lagi aktif setelah user kehilangan peran host.\n- **Perbaikan Koneksi Duplikat**: Mencegah dua koneksi WebSocket terbuka secara bersamaan saat reconnect.\n- **Stabilitas Room**: Pembersihan status sesi yang lebih baik saat keluar atau terputus dari room.\n",
-  "is_mandatory": false,
-  "isMandatory": false
-}

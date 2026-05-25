@@ -1,4 +1,0 @@
-### Pembaruan Baru (v2.6.6)
-- **Kestabilan Unduhan**: Mengganti engine jaringan internal Ktor ke CIO untuk mengatasi progress download stuck 0% serta mendukung kelancaran unduhan.
-- **Perbaikan Navigasi**: Memperbaiki masalah sistem yang me-reset proses unduhan kembali ke tombol awal ketika pengguna berpindah ke halaman Beranda/Pencarian.
-- **Pemulihan & Recovery Otomatis**: Ditambahkan log error download ke pengembang serta fitur penghapusan file unduhan sementara secara otomatis jika terjadi kegagalan/error 3 kali berturut-turut untuk pulih dari file rusak.

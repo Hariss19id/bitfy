@@ -1,7 +1,0 @@
-{
-  "versionName": "2.6.8",
-  "versionCode": 23,
-  "changelog": "### Pembaruan Baru (v2.6.8)\n- **Updater Tangguh**: Mengatur timeout jaringan Ktor menjadi lebih panjang agar tidak mudah terputus di jaringan lambat.\n- **Penyimpanan Progress Handal**: Menghapus fitur penghapusan file sementara pada kegagalan biasa agar unduhan dapat dilanjutkan secara konsisten dari persentase terakhir meskipun koneksi internet sempat hilang/terputus lama.\n- **Penanganan Error Khusus**: File unduhan hanya akan dihapus jika server secara eksplisit mengembalikan kode 416 (Range Not Satisfiable).\n",
-  "is_mandatory": false,
-  "isMandatory": false
-}

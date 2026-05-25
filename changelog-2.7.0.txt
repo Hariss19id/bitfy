@@ -1,6 +1,0 @@
-### Pembaruan Baru (v2.7.0)
-- **Listen Together - Server Baru**: Pindah ke server pribadi di Jakarta, Indonesia untuk latensi lebih rendah dan stabilitas lebih baik.
-- **Listen Together - Chat**: Fitur chat antar pengguna dalam room kini berjalan pada server resmi Bitfy.
-- **Listen Together - Room Chat**: Perbaikan tampilan chat, bubble pesan, label username, dan indikator host.
-- **Listen Together - Settings**: Perbaikan halaman pengaturan (copy room code, approve/reject join, kick member, kirim chat).
-- **Perbaikan Stabilitas**: Berbagai perbaikan error kompilasi pada fitur Listen Together.

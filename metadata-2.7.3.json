@@ -1,8 +1,0 @@
-{
-  "versionName": "2.7.3",
-  "versionCode": 28,
-  "changelog": "### Pembaruan Baru (v2.7.3)\n- **Tombol Chat Layang (Global FAB)**: Akses chat room Listen Together dari layar mana saja tanpa harus membuka halaman room utama.\n- **Perbaikan Panel Chat**: Panel chat kini otomatis menyesuaikan posisi saat keyboard muncul (IME-aware) dan tidak terhalang mini player.\n- **Perbaikan Reconnect Kritis**: Memperbaiki bug di mana status room stuck \"Reconnecting...\" selamanya akibat blocking state internal.\n- **Pembersihan Layar Login**: Visual logo yang lebih bersih dan minimalis tanpa border shadow tebal yang mengganggu.\n- **Pembaruan Konsistensi**: Mengubah sisa penamaan konstanta internal lama menjadi standar Bitfy.\n",
-  "is_mandatory": false,
-  "isMandatory": false,
-  "sha256": "f897670961d289486e58f77726fc3c589a7f8d270d23ca12fed92e09bc8717bd"
-}
