@@ -1,0 +1,2 @@
+### Pembaruan Baru (v2.6.5)
+- **Persistensi Sesi Login**: Memperbaiki masalah yang menyebabkan pengguna dipaksa untuk login ulang ketika membuka aplikasi dalam kondisi offline atau koneksi internet tidak stabil.

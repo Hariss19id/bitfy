@@ -1,0 +1,2 @@
+### Pembaruan Baru (v2.5.10)
+- **Perbaikan Fitur Kenali Musik**: Memperbaiki error resampling audio ("AudioProcessor must implement at least one #flush() overload") dengan memigrasikan panggilan `flush()` ke signature modern Media3 1.10.x yang mendukung `StreamMetadata.DEFAULT`.

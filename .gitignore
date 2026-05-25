@@ -1,0 +1,5 @@
+# Abaikan berkas APK agar tidak membengkak di Git tree
+*.apk
+
+# Abaikan token keamanan lokal GitHub
+github-token.txt

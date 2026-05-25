@@ -1,0 +1,3 @@
+### Pembaruan Baru (v2.6.4)
+- **Stabilitas & Performa**: Optimalisasi pemulihan progress download dan peningkatan performa in-app updater saat berpindah jaringan.
+- **Perbaikan Audio**: Penyelarasan minor untuk pemutaran audio di latar belakang.

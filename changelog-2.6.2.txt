@@ -1,0 +1,3 @@
+### Pembaruan Baru (v2.6.2)
+- **Perbaikan Bug**: Mengatasi beberapa masalah kecil pada sistem audio dan meningkatkan kestabilan pemutaran latar belakang.
+- **Peningkatan Performa**: Optimalisasi pemuatan gambar album dan efisiensi memori.

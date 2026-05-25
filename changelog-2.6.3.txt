@@ -1,0 +1,3 @@
+### Pembaruan Baru (v2.6.3)
+- **Sistem Pembaruan Tangguh**: Menyempurnakan pembaruan dalam aplikasi (in-app updater) dengan dukungan jeda/lanjutkan unduhan serta penanganan otomatis koneksi terputus.
+- **Kestabilan Aplikasi**: Memperbaiki pemulihan status progress unduhan saat pengguna keluar dan masuk kembali ke aplikasi.

@@ -1,0 +1,3 @@
+### Pembaruan Baru (v2.5.8)
+- **Perbaikan Deteksi Rilis**: Memperbaiki logika deteksi versi updater agar tidak salah menyarankan pembaruan saat pengguna sudah berada di versi terbaru.
+- **Pembersihan Logika UI**: Optimalisasi pengecekan string versi internal vs eksternal.

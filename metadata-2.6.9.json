@@ -1,0 +1,7 @@
+{
+  "versionName": "2.6.9",
+  "versionCode": 24,
+  "changelog": "### Pembaruan Baru (v2.6.9)\n- **Listen Together - Room Chat**: Tampilan chat dalam room sekarang berfungsi dengan benar, termasuk bubble pesan, label username, dan indikator host.\n- **Listen Together - Settings**: Perbaikan tampilan halaman pengaturan Listen Together (copy room code, approve/reject join request, kick member, dan kirim pesan chat).\n- **Listen Together - Server Baru**: Pindah ke server pribadi di Jakarta, Indonesia untuk latensi lebih rendah dan stabilitas lebih baik.\n- **Perbaikan Stabilitas**: Memperbaiki berbagai error kompilasi pada fitur Listen Together yang baru.\n",
+  "is_mandatory": false,
+  "isMandatory": false
+}

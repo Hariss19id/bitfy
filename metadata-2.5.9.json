@@ -1,0 +1,5 @@
+{
+  "versionName": "2.5.9",
+  "versionCode": 13,
+  "changelog": "### Pembaruan Baru (v2.5.9)\n- **Perbaikan Fitur Kenali Musik**: Memigrasikan mesin HTTP Ktor dari `CIO` ke `OkHttp` untuk menjamin kestabilan TLS/SSL handshake, negosiasi sertifikat, dan penanganan timeout koneksi pada berbagai perangkat Android.\n"
+}

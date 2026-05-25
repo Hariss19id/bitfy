@@ -1,0 +1,7 @@
+{
+  "versionName": "2.6.3",
+  "versionCode": 18,
+  "changelog": "### Pembaruan Baru (v2.6.3)\n- **Sistem Pembaruan Tangguh**: Menyempurnakan pembaruan dalam aplikasi (in-app updater) dengan dukungan jeda/lanjutkan unduhan serta penanganan otomatis koneksi terputus.\n- **Kestabilan Aplikasi**: Memperbaiki pemulihan status progress unduhan saat pengguna keluar dan masuk kembali ke aplikasi.\n",
+  "is_mandatory": false,
+  "isMandatory": false
+}

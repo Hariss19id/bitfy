@@ -1,0 +1,2 @@
+### Pembaruan Baru (v2.7.1)
+- **Perbaikan Bug Join Room**: Tombol "Masuk Room" kini muncul dengan benar setelah memasukkan kode room 6 karakter. Sebelumnya tombol tidak muncul karena aplikasi mengharapkan 8 karakter padahal kode room hanya 6 karakter.

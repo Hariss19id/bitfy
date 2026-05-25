@@ -1,0 +1,7 @@
+{
+  "versionName": "2.6.5",
+  "versionCode": 20,
+  "changelog": "### Pembaruan Baru (v2.6.5)\n- **Persistensi Sesi Login**: Memperbaiki masalah yang menyebabkan pengguna dipaksa untuk login ulang ketika membuka aplikasi dalam kondisi offline atau koneksi internet tidak stabil.\n",
+  "is_mandatory": false,
+  "isMandatory": false
+}
